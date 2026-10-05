@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#f6f7f9"/>
+  <rect x="80" y="60" width="1280" height="780" rx="24" fill="white" stroke="#d8dde6" stroke-width="2"/>
+  <text x="130" y="130" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#111827">Message Explainer</text>
+  <text x="130" y="175" font-family="Arial, sans-serif" font-size="22" fill="#4b5563">Turn confusing English messages into clear next steps</text>
+  <rect x="130" y="220" width="1180" height="150" rx="14" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="160" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#374151">Synthetic input</text>
+  <text x="160" y="300" font-family="Arial, sans-serif" font-size="20" fill="#111827">Your appointment scheduled for October 10 at 3 PM has been moved to</text>
+  <text x="160" y="335" font-family="Arial, sans-serif" font-size="20" fill="#111827">October 12 at 2 PM. Please confirm the new time by October 8.</text>
+
+  <text x="130" y="430" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">WHAT DOES THIS MEAN?</text>
+  <text x="130" y="465" font-family="Arial, sans-serif" font-size="20" fill="#374151">예약 일정이 변경되었다는 뜻입니다.</text>
+
+  <text x="130" y="525" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">WHAT MATTERS?</text>
+  <text x="130" y="560" font-family="Arial, sans-serif" font-size="20" fill="#374151">새 일정은 October 12 at 2 PM입니다.</text>
+
+  <text x="130" y="620" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">WHAT DO I NEED TO DO?</text>
+  <text x="130" y="655" font-family="Arial, sans-serif" font-size="20" fill="#374151">October 8까지 변경된 일정을 확인해야 합니다.</text>
+
+  <text x="130" y="715" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">WHAT SHOULD I CHECK?</text>
+  <text x="130" y="750" font-family="Arial, sans-serif" font-size="20" fill="#374151">New appointment: Oct 12, 2 PM   •   Confirmation deadline: Oct 8</text>
+
+  <text x="130" y="805" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">Synthetic demo only — no real company, customer, partner, or personal information.</text>
+</svg>
